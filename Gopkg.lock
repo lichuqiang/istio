@@ -2171,9 +2171,6 @@
     "k8s.io/helm/pkg/proto/hapi/chart",
     "k8s.io/helm/pkg/proto/hapi/version",
     "k8s.io/helm/pkg/timeconv",
-    "k8s.io/ingress/core/pkg/ingress/annotations/class",
-    "k8s.io/ingress/core/pkg/ingress/status",
-    "k8s.io/ingress/core/pkg/ingress/store",
     "k8s.io/kubernetes/pkg/apis/core",
   ]
   solver-name = "gps-cdcl"
